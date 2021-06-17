@@ -1,0 +1,13 @@
+{
+  "name": "g-coin",
+  "version": "1.0.0",
+  "description": "A blockchain application",
+  "main": "main.js",
+  "type": "module",
+  "author": "Alexandros Collie",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
